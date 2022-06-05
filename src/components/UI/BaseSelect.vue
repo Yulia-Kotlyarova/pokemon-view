@@ -38,5 +38,8 @@ export default {
 <style lang="scss" scoped>
   .base-select {
     outline: none;
+    border: 1px solid cornflowerblue;
+    padding: 10px 15px;
+    max-width: 150px;
   }
 </style>
