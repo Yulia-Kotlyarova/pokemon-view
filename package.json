@@ -1,5 +1,5 @@
 {
-  "name": "skeleton",
+  "name": "pokemon-vue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,10 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.27.2",
+    "clean-webpack-plugin": "^4.0.0",
     "core-js": "^3.8.3",
+    "html-webpack-plugin": "^5.5.0",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
     "vuex": "^4.0.0"

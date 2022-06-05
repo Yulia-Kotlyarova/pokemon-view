@@ -1,14 +1,11 @@
-import { createStore } from 'vuex'
+import {createStore} from "vuex";
+import {pokemonModule} from "@/store/pokemonModule.js";
 
 export default createStore({
   state: {
-  },
-  getters: {
-  },
-  mutations: {
-  },
-  actions: {
+    isAuth: false,
   },
   modules: {
+    pokemon: pokemonModule
   }
 })
