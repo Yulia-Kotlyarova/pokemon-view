@@ -1,5 +1,8 @@
 # skeleton
 
+## Project deploy
+See [https://kotlyarova-pokemon-vue.netlify.app](https://kotlyarova-pokemon-vue.netlify.app).
+
 ## Project setup
 ```
 npm install
